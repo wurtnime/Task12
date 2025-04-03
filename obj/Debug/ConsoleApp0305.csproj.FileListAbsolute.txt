@@ -1,0 +1,4 @@
+C:\Users\Пользователь\source\repos\ConsoleApp0305\obj\Debug\ConsoleApp0305.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\ConsoleApp0305\obj\Debug\ConsoleApp0305.csproj.CoreCompileInputs.cache
+C:\Users\ЕгрPC\source\repos\ConsoleApp0312\obj\Debug\ConsoleApp0305.csproj.AssemblyReference.cache
+C:\Users\ЕгрPC\source\repos\ConsoleApp0312\obj\Debug\ConsoleApp0305.csproj.CoreCompileInputs.cache
